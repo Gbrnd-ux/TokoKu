@@ -1,10 +1,3 @@
-Berikut README yang sudah saya percantik khusus untuk **TokoKu**, lengkap dengan kontak barumu.
-
-## 📝 File `README.md` untuk TokoKu
-
-Salin seluruh teks di bawah ini ke dalam file `README.md` di proyek `D:\ecommerce`.
-
-```markdown
 <div align="center">
   <h1>🛍️ TokoKu</h1>
   <p>
