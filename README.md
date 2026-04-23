@@ -1,97 +1,141 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gibrand+%F0%9F%91%8B;Full-Stack+Developer;Security+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
-</div>
+Berikut README yang sudah saya percantik khusus untuk **TokoKu**, lengkap dengan kontak barumu.
 
-<br/>
+## 📝 File `README.md` untuk TokoKu
 
+Salin seluruh teks di bawah ini ke dalam file `README.md` di proyek `D:\ecommerce`.
+
+```markdown
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gbrnd-ux&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Gbrnd-ux?tab=followers">
-    <img src="https://img.shields.io/github/followers/Gbrnd-ux?label=Followers&style=social" alt="Followers" />
-  </a>
+  <h1>🛍️ TokoKu</h1>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full-Stack+E-Commerce+Website;Modern+%26+Responsive;Built+with+React+%2B+Node.js" alt="Typing SVG" />
+  </p>
+  <p>
+    <a href="#-features"><img src="https://img.shields.io/badge/✨_Features-List-blue?style=for-the-badge" /></a>
+    <a href="#-tech-stack"><img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react" /></a>
+    <a href="#-tech-stack"><img src="https://img.shields.io/badge/Node.js-18-339933?style=for-the-badge&logo=node.js" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /></a>
+  </p>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ✨ Features
 
-- 🔭 I’m currently working on: **My College Tasks** & **TokoKu**
-- 🌱 I’m currently learning: **Flutter, Dart, Security Automation**
-- 👯 I’m looking to collaborate on: **Open source Flutter & security tools**
-- 📫 How to reach me: **valorantakun1337@gmail.com**
-- ⚡ Fun fact: **I love turning coffee into code ☕**
+- 🔐 **User Authentication** – Register, login, JWT‑based authorization, role protection (User / Admin).
+- 🛒 **Shopping Cart** – Add products, update quantity, remove items, and checkout.
+- 📦 **Product Management** – Admin can create, edit, delete products and manage stock.
+- 🔍 **Search & Filter** – Search by name or filter by category.
+- 🖼️ **Image Upload** – Product images stored on server via multer.
+- 👤 **Admin Dashboard** – Manage users and products from a dedicated dashboard.
+- 🛡️ **Security** – Password hashing with bcryptjs, protected API routes.
+- 📱 **Responsive** – Built with Tailwind CSS, works perfectly on desktop and mobile.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+| Layer       | Technology |
+|-------------|------------|
+| **Frontend**| React 18, Vite, Tailwind CSS, React Router, Context API, react-hot-toast |
+| **Backend** | Node.js, Express, JWT, bcryptjs, multer |
+| **Database**| MySQL (mysql2/promise) |
+| **Tools**   | Git, Nodemon, Postman |
 
 ---
 
-## 📊 GitHub Stats
+## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbrnd-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbrnd-ux&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbrnd-ux&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <table>
+    <tr>
+      <td><img src="screenshots/home.png" width="250" alt="Home"/></td>
+      <td><img src="screenshots/products.png" width="250" alt="Products"/></td>
+      <td><img src="screenshots/cart.png" width="250" alt="Cart"/></td>
+    </tr>
+    <tr align="center">
+      <td>🏠 Home Page</td>
+      <td>🛍️ Products</td>
+      <td>🛒 Cart</td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📁 Project Structure
 
-<div align="center">
-  <a href="https://github.com/Gbrnd-ux/my-college-tasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbrnd-ux&repo=my-college-tasks&theme=tokyonight&hide_border=true" width="45%" />
-  </a>
-  <a href="https://github.com/Gbrnd-ux/TokoKu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbrnd-ux&repo=TokoKu&theme=tokyonight&hide_border=true" width="45%" />
-  </a>
-</div>
-
-### 🎓 My College Tasks
-> **Flutter-based student task manager** with priority levels, dark mode, local storage, and bulk delete.  
-> `Flutter` `Dart` `SharedPreferences` `Percent Indicator` `Google Fonts`
-
-### 🛍️ TokoKu
-> **Full-stack e‑commerce website** with authentication, cart, product management, and admin dashboard.  
-> `React` `Node.js` `Express` `MySQL` `Tailwind CSS` `JWT`
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:valorantakun1337@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Gbrnd-ux">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourhandle">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+```
+TokoKu/
+├── frontend/
+│   ├── src/
+│   │   ├── components/     # Navbar, ProductCard, etc.
+│   │   ├── contexts/       # AuthContext, CartContext
+│   │   ├── pages/          # Home, Login, Dashboard, etc.
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── public/
+│   └── index.html
+├── backend/
+│   ├── config/             # DB connection
+│   ├── controllers/        # Auth & Product logic
+│   ├── middleware/          # auth, adminOnly, upload
+│   ├── models/             # User, Product
+│   ├── routes/             # auth, products
+│   └── server.js
+├── database/               # MySQL schema & seed data
+└── secure_env_backup/      # Environment variable backup
+```
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gbrnd-ux/my-college-tasks/main/assets/wave.svg" width="100%" />
-</div>
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+
+- MySQL (or XAMPP)
+- Git
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Gbrnd-ux/TokoKu.git
+cd TokoKu
+```
+
+### 2. Backend Setup
+```bash
+cd backend
+npm install
+```
+
+Create a `.env` file based on `secure_env_backup/`:
+```env
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=
+DB_NAME=tokoku
+JWT_SECRET=tokoku_secret_key
+PORT=5000
+```
+
+Run the server:
+```bash
+npm run dev
+```
+Server runs at `http://localhost:5000`.
+
+### 3. Frontend Setup
+```bash
+cd ../frontend
+npm install
+npm run dev
+```
+Open `http://localhost:5173` in your browser.
+
+### Demo Accounts
+| Role  | Email                 | Password  |
+|-------|-----------------------|-----------|
+| Admin | admin@tokoku.com      | admin123  |
+| User  | user@tokoku.com       | user123   |
+
+---
